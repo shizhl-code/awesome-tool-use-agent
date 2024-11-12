@@ -22,4 +22,8 @@
 8. Towards Tool Use Alignment of Large Language Models [[paper]](https://aclanthology.org/2024.emnlp-main.82/) [[code]]()
 9. Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [[paper]](https://arxiv.org/abs/2402.14672) [[code]](https://huggingface.co/datasets/osunlp/KBQA-Agent)
 10. ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models [[paper]](https://arxiv.org/pdf/2406.20015) [[code]](https://github.com/ToolBeHonest/ToolBeHonest)
+11. Tools Fail: Detecting Silent Errors in Faulty Tools [[paper]](https://arxiv.org/abs/2406.19228) [[code]]()
+12. SciAgent: Tool-augmented Language Models for Scientific Reasoning [[paper]](https://arxiv.org/abs/2402.11451) [[code]]()
+13. 
+14. 
 [[paper]]() [[code]]()
