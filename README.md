@@ -12,3 +12,14 @@
 4. [2024/7] Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees (Nanjing University, Alibaba Group) [[paper]](https://arxiv.org/pdf/2406.07115)
 
 # Awesome Resource
+1. ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages [[paper]](https://arxiv.org/abs/2402.10753) [[code]](https://github.com/Junjie-Ye/ToolSword)
+2. T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step [[[paper]](https://aclanthology.org/2024.acl-long.515.pdf) [code]](https://github.com/open-compass/T-Eval)
+3. AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents [[paper]](https://aclanthology.org/2024.acl-long.850/) [[code]](https://appworld.dev/)
+4. AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction [[paper]](https://aclanthology.org/2024.emnlp-main.856.pdf) [[code]](https://github.com/ruleGreen/AppBench)
+5. Sequential API Function Calling Using GraphQL Schema [[paper]](https://aclanthology.org/2024.emnlp-main.1083/)
+6. ToolPlanner: A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback [[paper]](https://arxiv.org/abs/2409.14826) [[code]]()
+7. RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning [[paper]](https://arxiv.org/abs/2401.08326) [[code]](https://github.com/Junjie-Ye/RoTBench)
+8. Towards Tool Use Alignment of Large Language Models [[paper]](https://aclanthology.org/2024.emnlp-main.82/) [[code]]()
+9. Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [[paper]](https://arxiv.org/abs/2402.14672) [[code]](https://huggingface.co/datasets/osunlp/KBQA-Agent)
+10. ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models [[paper]](https://arxiv.org/pdf/2406.20015) [[code]](https://github.com/ToolBeHonest/ToolBeHonest)
+[[paper]]() [[code]]()
